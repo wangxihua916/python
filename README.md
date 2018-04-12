@@ -35,8 +35,10 @@ Koa middleware for New Relic: https://github.com/AfterShip/koa-newrelic
 AfterShip 背景
 AfterShip 為國際電子商戶，採購和零售商如eBay, Zalora, PayPal, Groupon, Etsy和Wish等提供電子商務軟件即服務如包裹追蹤，退貨追蹤，打印快遞運單，等等。
 AfterShip 的使命是幫助國際電子商戶，採購和零售商獲得客戶的滿意度和忠誠度，通過實現自動化包裹跟蹤和退貨等，為國際採購和零售商的客戶提供最佳的購物體驗。
-招聘岗位：
-1、网络爬虫 高級后台工程师（薪资范围20-28K）
+
+ 招聘岗位：
+  
+ 1、网络爬虫 高級后台工程师（薪资范围20-28K）
 if (your.passions.include('coding')) {
 switch(your.role) {
   case 'coder':
@@ -51,7 +53,7 @@ switch(your.role) {
 }
 AfterShip.stacks = ['Python', 'Scrapy', 'k8s', 'ipa', 'Service Worker', 'AWS', 'GCP', 'Serverless', 'NoSQL'];
 
-岗位职责
+ 岗位职责
 1、负责后台与不同物流公司的系统对接，使用各种 API及网络爬虫技巧，抓取、分析、调度、存储，为公司业务提供正确稳定的数据。
 2、负责快递查询系统之 SLA , 代码维护、秩代更新，保证任务质量和交付及时性。
 3、负责编写相关的技术文档。
@@ -60,7 +62,7 @@ AfterShip.stacks = ['Python', 'Scrapy', 'k8s', 'ipa', 'Service Worker', 'AWS', '
 6、负责系统关键模块的技术攻关，协助解决项目中的难题。
 7、负责根据部门战略目标，制定团队的工作目标，进行团队的质量管理和能力建设。
 
-岗位要求
+ 岗位要求
 1、统招本科及以上学历，计算机相关专业（985/211院校优先）；
 2、2 年或以上 Python 开发工作经验，优秀的 Javascript 基本功。
 3、熟悉 Git / Github，通信协议 TCP/HTTP 及 RESTful 标准。
@@ -71,7 +73,8 @@ AfterShip.stacks = ['Python', 'Scrapy', 'k8s', 'ipa', 'Service Worker', 'AWS', '
 8、有 Docker、Kubernetes、AWS 或 GCP 云计算经验者优先。
 9、有 CI / CD 自动化持续集成和持续交付经验者优先。
 10、具备英语听读写能力，CET4或以上。
-2、网络爬虫 (组长) 高級后台工程师（薪资范围25-35K）
+
+ 2、网络爬虫 (组长) 高級后台工程师（薪资范围25-35K）
 if (your.passions.include('coding')) {
 switch(your.role) {
   case 'coder':
@@ -86,7 +89,8 @@ switch(your.role) {
 }
 AfterShip.stacks = ['Python', 'Scrapy', 'k8s', 'ipa', 'Service Worker', 'AWS', 'GCP', 'Serverless', 'NoSQL'];
 
-岗位职责
+ 岗位职责
+ 
 1、负责后台与不同物流公司的系统对接，使用各种 API及网络爬虫技巧，抓取、分析、调度、存储，为公司业务提供正确稳定的数据。
 2、负责快递查询系统之 SLA , 代码维护、秩代更新，保证任务质量和交付及时性。
 3、负责编写相关的技术文档。
@@ -95,7 +99,8 @@ AfterShip.stacks = ['Python', 'Scrapy', 'k8s', 'ipa', 'Service Worker', 'AWS', '
 6、负责系统关键模块的技术攻关，协助解决项目中的难题。
 7、负责根据部门战略目标，制定团队的工作目标，进行团队的质量管理和能力建设。
 
-岗位要求
+ 岗位要求
+ 
 1、至少 1 年带团队经验。
 2、统招本科及以上学历，计算机相关专业（985/211院校优先）；
 3、2 年或以上 Nodejs / Python 开发工作经验，优秀的 Javascript 基本功。
@@ -108,7 +113,7 @@ AfterShip.stacks = ['Python', 'Scrapy', 'k8s', 'ipa', 'Service Worker', 'AWS', '
 10、有 CI / CD 自动化持续集成和持续交付经验者优先。
 11、具备英语听说读写能力，CET6或以上。
  
-3、Node.js 后台工程师（薪资范围10-18K）
+ 3、Node.js 后台工程师（薪资范围10-18K）
 if (your.passions.include('coding')) {
 switch(your.role) {
   case 'coder':
@@ -123,7 +128,7 @@ switch(your.role) {
 }
 AfterShip.stacks = ['React.js', 'k8s', 'ipa', 'Service Worker', 'Node.js', 'AWS', 'GCP', 'Serverless', 'NoSQL'];
 
-岗位职责
+ 岗位职责
 1、负责后台与不同物流公司的系统对接，使用各种 API及网络爬虫技巧，抓取、分析、调度、存储，为公司业务提供正确稳定的数据；
 2、负责快递查询系统之 SLA , 代码维护、秩代更新，保证任务质量和交付及时性；
 3、编写相关的技术文档；
@@ -131,7 +136,7 @@ AfterShip.stacks = ['React.js', 'k8s', 'ipa', 'Service Worker', 'Node.js', 'AWS'
 5、参与制定技术标准及研究新技术，有效地提高工作效率；
 6、参与系统关键模块的技术攻关，协助解决项目中的难题。
 
-岗位要求
+ 岗位要求
 1、统招本科或以上学历，计算机相关专业（985/211院校优先）；
 2、一或年以上 Nodejs 开发工作经验，优秀的 Javascript 基本功；
 3、熟悉 Git / Github，通信协议 TCP/HTTP 及 RESTful 标准；
