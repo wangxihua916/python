@@ -38,7 +38,7 @@ AfterShip 的使命是幫助國際電子商戶，採購和零售商獲得客戶�
 
  招聘岗位：
   
- 1、网络爬虫 高級后台工程师（薪资范围20-28K） 
+ # 1、网络爬虫 高級后台工程师（薪资范围20-28K） 
  
   if (your.passions.include('coding')) {
  
@@ -106,7 +106,7 @@ AfterShip 的使命是幫助國際電子商戶，採購和零售商獲得客戶�
  10、具备英语听读写能力，CET4或以上。
  
 
- 2、网络爬虫 (组长) 高級后台工程师（薪资范围25-35K）
+ # 2、网络爬虫 (组长) 高級后台工程师（薪资范围25-35K）
  
  if (your.passions.include('coding')) {
 
@@ -177,23 +177,39 @@ AfterShip 的使命是幫助國際電子商戶，採購和零售商獲得客戶�
 11、具备英语听说读写能力，CET6或以上。
  
  
- 3、Node.js 后台工程师（薪资范围10-18K）
+ # 3、Node.js 后台工程师（薪资范围10-18K）
+ 
 if (your.passions.include('coding')) {
+
 switch(your.role) {
+
   case 'coder':
+  
   case 'geek':
+  
   case 'nerd':
+  
   case 'gatekeeper_of_gatekeepers':
+  
   case 'red_or_blue_pill':
+  
     console.log('来加入我们 AfterShip =]');
+    
   break;
+  
   default:
+  
 }  
+
 }
+
 AfterShip.stacks = ['React.js', 'k8s', 'ipa', 'Service Worker', 'Node.js', 'AWS', 'GCP', 'Serverless', 'NoSQL'];
 
+
  岗位职责
+ 
 1、负责后台与不同物流公司的系统对接，使用各种 API及网络爬虫技巧，抓取、分析、调度、存储，为公司业务提供正确稳定的数据；
+
 2、负责快递查询系统之 SLA , 代码维护、秩代更新，保证任务质量和交付及时性；
 3、编写相关的技术文档；
 4、编制单元测试、集成测试，提高测试覆盖率，敢于对产品质量负责；
@@ -210,7 +226,7 @@ AfterShip.stacks = ['React.js', 'k8s', 'ipa', 'Service Worker', 'Node.js', 'AWS'
 7、有 CI / CD 自动化持续集成和持续交付经验者优先。
 8、具备英语听读写能力，CET4或以上。
 
-4、Node.js 高级后台工程师（薪资范围18-25K）
+# 4、Node.js 高级后台工程师
 if (your.passions.include('coding')) {
 switch(your.role) {
   case 'coder':
@@ -244,7 +260,8 @@ AfterShip.stacks = ['React.js', 'k8s', 'ipa', 'Service Worker', 'Node.js', 'AWS'
 7、有 Docker、Kubernetes、AWS 或 GCP 云计算经验者优先。
 8、有 CI / CD 自动化测试经验优先。
 9、具备英语听读写能力，CET4或以上。
-5、Node.js (组长) 高級后台工程师（薪资范围25-38K）
+
+# 5、Node.js (组长) 高級后台工程师
 if (your.passions.include('coding')) {
 switch(your.role) {
   case 'coder':
@@ -280,7 +297,7 @@ AfterShip.stacks = ['Koa', 'k8s', 'ipa', 'Service Worker', 'Node.js', 'AWS', 'GC
 9、有 Express、Koa、ES6 等使用经验。
 10、有 AWS 或 GCP 云计算经验者优先。
 11、具备英语听说读写能力，CET6或以上。
-6、初级 DevOps 运维工程师 SRE（薪资范围18-25K）
+# 6、初级 DevOps 运维工程师 SRE
 
 if (your.passions.include('coding')) {
 switch(your.role) {
@@ -313,7 +330,7 @@ AfterShip.stacks = ['Jenkins', 'Ansible', 'automation', 'k8s', 'ipa', 'Service W
 7、有类数据库运维经验，如 Mongodb、Redis 等优先。
 8、有技术博客，在开源社群活跃并有积极贡献者优先。
 9、具备英语听说读写能力，CET6或以上。
-7、高级 DevOps 运维工程师 SRE（薪资范围25-40K）
+# 7、高级 DevOps 运维工程师 SRE
 
 if (your.passions.include('coding')) {
 switch(your.role) {
