@@ -38,56 +38,85 @@ AfterShip 的使命是幫助國際電子商戶，採購和零售商獲得客戶�
 
  招聘岗位：
   
- 1、网络爬虫 高級后台工程师（薪资范围20-28K）
-if (your.passions.include('coding')) {
-switch(your.role) {
-  case 'coder':
-  case 'geek':
-  case 'nerd':
-  case 'gatekeeper_of_gatekeepers':
-  case 'red_or_blue_pill':
-    console.log('来加入我们 AfterShip =]');
-  break;
-  default:
-}  
-}
-AfterShip.stacks = ['Python', 'Scrapy', 'k8s', 'ipa', 'Service Worker', 'AWS', 'GCP', 'Serverless', 'NoSQL'];
+ 1、网络爬虫 高級后台工程师（薪资范围20-28K） 
+ 
+  if (your.passions.include('coding')) {
+ 
+  switch(your.role) {
+ 
+    case 'coder':
+   
+   case 'geek':
+  
+   case 'nerd':
+  
+   case 'gatekeeper_of_gatekeepers':
+  
+   case 'red_or_blue_pill':
+  
+     console.log('来加入我们 AfterShip =]');
+    
+   break;
+  
+   default:
+  
+ }  
 
- 岗位职责
-1、负责后台与不同物流公司的系统对接，使用各种 API及网络爬虫技巧，抓取、分析、调度、存储，为公司业务提供正确稳定的数据。
-2、负责快递查询系统之 SLA , 代码维护、秩代更新，保证任务质量和交付及时性。
-3、负责编写相关的技术文档。
-4、负责编制单元测试，提高系统覆盖率，敢于对产品质量负责。
-5、负责制定技术标准及研究新技术，有效地提高工作效率。
-6、负责系统关键模块的技术攻关，协助解决项目中的难题。
-7、负责根据部门战略目标，制定团队的工作目标，进行团队的质量管理和能力建设。
+ }
+
+ AfterShip.stacks = ['Python', 'Scrapy', 'k8s', 'ipa', 'Service Worker', 'AWS', 'GCP', 'Serverless', 'NoSQL'];
+
+ 岗位职责 
+ 
+ 1、负责后台与不同物流公司的系统对接，使用各种 API及网络爬虫技巧，抓取、分析、调度、存储，为公司业务提供正确稳定的数据。
+ 2、负责快递查询系统之 SLA , 代码维护、秩代更新，保证任务质量和交付及时性。
+ 3、负责编写相关的技术文档。
+ 4、负责编制单元测试，提高系统覆盖率，敢于对产品质量负责。
+ 5、负责制定技术标准及研究新技术，有效地提高工作效率。
+ 6、负责系统关键模块的技术攻关，协助解决项目中的难题。
+ 7、负责根据部门战略目标，制定团队的工作目标，进行团队的质量管理和能力建设。
 
  岗位要求
-1、统招本科及以上学历，计算机相关专业（985/211院校优先）；
-2、2 年或以上 Python 开发工作经验，优秀的 Javascript 基本功。
-3、熟悉 Git / Github，通信协议 TCP/HTTP 及 RESTful 标准。
-4、熟悉主流测试方法、工具，并不断结合前沿技术提升整体测试效率和研发质量。
-5、熟悉敏捷开发工具及开发流程。
-6、有 MySQL、 Redis 或 MongoDB 等相关数据库使用经验。
-7、有 Scrapy 等使用经验。
-8、有 Docker、Kubernetes、AWS 或 GCP 云计算经验者优先。
-9、有 CI / CD 自动化持续集成和持续交付经验者优先。
-10、具备英语听读写能力，CET4或以上。
+ 
+ 1、统招本科及以上学历，计算机相关专业（985/211院校优先）；
+ 2、2 年或以上 Python 开发工作经验，优秀的 Javascript 基本功。
+ 3、熟悉 Git / Github，通信协议 TCP/HTTP 及 RESTful 标准。
+ 4、熟悉主流测试方法、工具，并不断结合前沿技术提升整体测试效率和研发质量。
+ 5、熟悉敏捷开发工具及开发流程。
+ 6、有 MySQL、 Redis 或 MongoDB 等相关数据库使用经验。
+ 7、有 Scrapy 等使用经验。
+ 8、有 Docker、Kubernetes、AWS 或 GCP 云计算经验者优先。
+ 9、有 CI / CD 自动化持续集成和持续交付经验者优先。
+ 10、具备英语听读写能力，CET4或以上。
 
  2、网络爬虫 (组长) 高級后台工程师（薪资范围25-35K）
-if (your.passions.include('coding')) {
-switch(your.role) {
-  case 'coder':
-  case 'geek':
-  case 'nerd':
-  case 'gatekeeper_of_gatekeepers':
-  case 'red_or_blue_pill':
-    console.log('来加入我们 AfterShip =]');
-  break;
-  default:
-}  
-}
-AfterShip.stacks = ['Python', 'Scrapy', 'k8s', 'ipa', 'Service Worker', 'AWS', 'GCP', 'Serverless', 'NoSQL'];
+ 
+ if (your.passions.include('coding')) {
+
+ switch(your.role) {
+
+   case 'coder':
+  
+   case 'geek':
+  
+   case 'nerd':
+   
+   case 'gatekeeper_of_gatekeepers':
+  
+   case 'red_or_blue_pill':
+  
+     console.log('来加入我们 AfterShip =]');
+    
+   break;
+  
+   default:
+  
+ }  
+
+ }
+
+ AfterShip.stacks = ['Python', 'Scrapy', 'k8s', 'ipa', 'Service Worker', 'AWS', 'GCP', 'Serverless', 'NoSQL'];
+
 
  岗位职责
  
