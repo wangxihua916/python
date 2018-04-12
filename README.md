@@ -1,4 +1,4 @@
-# python
+# python nodejs  devops sre
 
  高级网络爬虫工程师、高级Nodejs后台开发工程师、高级Devops运维开发工程师SRE
  
@@ -26,11 +26,17 @@ Koa middleware for New Relic: https://github.com/AfterShip/koa-newrelic
 如果你的想法跟我们一样，欢迎加入我们这支精小而灵活的公司! 
 
 公司福利
+
 1、入职提供最新型号之 Apple 15” MacBook Pro, Touch Bar 那款~~
+
 2、五险一金、带薪病假、年终奖、免费加班餐、25号左右前发当月工资~~
+
 3、任意挑选使用各种付费工具，如 JetBrains IDE, Newrelic, Pingdom, 你想得出，只要可以帮助工作做好，公司绝对愿意支持~~
+
 4、办公室可自由访问全球优秀网站，英文资源~~
+
 5、发展前景好，成长空间大，团队国际化，我们的团体来自超过十个不同国家。
+
 
 AfterShip 背景
 AfterShip 為國際電子商戶，採購和零售商如eBay, Zalora, PayPal, Groupon, Etsy和Wish等提供電子商務軟件即服務如包裹追蹤，退貨追蹤，打印快遞運單，等等。
