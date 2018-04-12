@@ -19,9 +19,13 @@
 我们願意贡献我们有用的，把好的东西跟全世界分享。
 
 我们使用的 SaaS 工具: https://github.com/AfterShip/SaaS
+
 我们的代码风格: https://github.com/AfterShip/eslint-config-aftership
+
 自动格式化全球电话号码: https://github.com/AfterShip/phone
+
 Koa middleware for New Relic: https://github.com/AfterShip/koa-newrelic
+
 
 如果你的想法跟我们一样，欢迎加入我们这支精小而灵活的公司! 
 
