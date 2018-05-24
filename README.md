@@ -1,10 +1,10 @@
-# python nodejs  devops sre
+# python爬虫后台开发工程师  Nodejs后台开发工程师  Nodejs全栈工程师  Devops SRE
 
- 高级网络爬虫工程师、高级Nodejs后台开发工程师、高级Devops运维开发工程师SRE
  
- 工作地点：深圳南山科苑地铁站中国地质大学产学研基地2楼  邮箱：xhwang@aftership.com   微信：15013684171
+工作地点：深圳南山科苑地铁站中国地质大学产学研基地2楼  邮箱：xhwang@aftership.com   微信：15013684171
 
-我们要找的人
+## 我们要找的人
+
 我们是一群热爱编程的代码农，但我们不是代码奴！
 我们不会单纯接受指令去编程，我们会问为什么要编写这些功能，谁是我们的用户，我们关心用户体验，要打造世界级的产品。
 我们为写的代码负责，对代码质素有要求，由代码风格开始，测试，编写技术文档，一丝不苟。我们注重自动化，使用自动化测试，持续集成与持续交付提升生产力。
@@ -29,7 +29,7 @@ Koa middleware for New Relic: https://github.com/AfterShip/koa-newrelic
 
 如果你的想法跟我们一样，欢迎加入我们这支精小而灵活的公司! 
 
-公司福利
+## 公司福利
 
 1、入职提供最新型号之 Apple 15” MacBook Pro, Touch Bar 那款~~
 
@@ -42,13 +42,13 @@ Koa middleware for New Relic: https://github.com/AfterShip/koa-newrelic
 5、发展前景好，成长空间大，团队国际化，我们的团体来自超过十个不同国家。
 
 
-AfterShip 背景
+## AfterShip 背景
 AfterShip 為國際電子商戶，採購和零售商如eBay, Zalora, PayPal, Groupon, Etsy和Wish等提供電子商務軟件即服務如包裹追蹤，退貨追蹤，打印快遞運單，等等。
 AfterShip 的使命是幫助國際電子商戶，採購和零售商獲得客戶的滿意度和忠誠度，通過實現自動化包裹跟蹤和退貨等，為國際採購和零售商的客戶提供最佳的購物體驗。
 
- 招聘岗位：
+# 招聘岗位：
   
- # 1、网络爬虫 高級后台工程师
+ ## 1、网络爬虫 高級后台工程师
  
   if (your.passions.include('coding')) {
  
@@ -116,7 +116,7 @@ AfterShip 的使命是幫助國際電子商戶，採購和零售商獲得客戶�
  10、具备英语听读写能力，CET4或以上。
  
 
- # 2、网络爬虫 (组长) 高級后台工程师
+ ## 2、网络爬虫 (组长) 高級后台工程师
  
  if (your.passions.include('coding')) {
 
@@ -187,7 +187,7 @@ AfterShip 的使命是幫助國際電子商戶，採購和零售商獲得客戶�
 11、具备英语听说读写能力，CET6或以上。
  
  
- # 3、Node.js 后台工程师
+ ## 3、Node.js 后台工程师
  
 if (your.passions.include('coding')) {
 
@@ -249,7 +249,7 @@ AfterShip.stacks = ['React.js', 'k8s', 'ipa', 'Service Worker', 'Node.js', 'AWS'
 
 8、具备英语听读写能力，CET4或以上。
 
-# 4、Node.js 高级后台工程师
+## 4、Node.js 高级后台工程师
 
 if (your.passions.include('coding')) {
 
@@ -313,7 +313,7 @@ AfterShip.stacks = ['React.js', 'k8s', 'ipa', 'Service Worker', 'Node.js', 'AWS'
 
 9、具备英语听读写能力，CET4或以上。
 
-# 5、Node.js (组长) 高級后台工程师
+## 5、Node.js (组长) 高級后台工程师
 
 if (your.passions.include('coding')) {
 
@@ -383,7 +383,7 @@ AfterShip.stacks = ['Koa', 'k8s', 'ipa', 'Service Worker', 'Node.js', 'AWS', 'GC
 
 11、具备英语听说读写能力，CET6或以上。
 
-# 6、初级 DevOps 运维工程师 SRE
+## 6、初级 DevOps 运维工程师 SRE
 
 if (your.passions.include('coding')) {
 
@@ -444,7 +444,7 @@ AfterShip.stacks = ['Jenkins', 'Ansible', 'automation', 'k8s', 'ipa', 'Service W
 
 9、具备英语听说读写能力，CET6或以上。
 
-# 7、高级 DevOps 运维工程师 SRE
+## 7、高级 DevOps 运维工程师 SRE
 
 if (your.passions.include('coding')) {
 
